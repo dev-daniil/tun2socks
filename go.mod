@@ -1,4 +1,4 @@
-module github.com/dev-daniil/tun2socks/v2
+module github.com/xjasonlyu/tun2socks/v2
 
 go 1.23.1
 
@@ -21,7 +21,7 @@ require (
 	golang.org/x/time v0.8.0
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
 	gopkg.in/yaml.v3 v3.0.1
-	gvisor.dev/gvisor v0.0.0-20241217203854-afdd74ad6402 
+	gvisor.dev/gvisor v0.0.0-20241108012608-5901531b85ba
 )
 
 require (
@@ -30,6 +30,10 @@ require (
 	github.com/google/btree v1.1.3 // indirect
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
-	golang.org/x/net v0.31.0 // indirect
+	golang.org/x/mobile v0.0.0-20241213221354-a87c1cf6cf46 // indirect
+	golang.org/x/mod v0.22.0 // indirect
+	golang.org/x/net v0.32.0 // indirect
+	golang.org/x/sync v0.10.0 // indirect
+	golang.org/x/tools v0.28.0 // indirect
 	golang.zx2c4.com/wintun v0.0.0-20230126152724-0fa3db229ce2 // indirect
 )
