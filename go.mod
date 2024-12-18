@@ -1,4 +1,4 @@
-module github.com/daniil-dev/tun2socks/v2
+module github.com/dev-daniil/tun2socks/v2
 
 go 1.23.1
 
