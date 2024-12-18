@@ -1,4 +1,4 @@
-module github.com/xjasonlyu/tun2socks/v2
+module github.com/daniil-dev/tun2socks/v2
 
 go 1.23.1
 
@@ -21,7 +21,7 @@ require (
 	golang.org/x/time v0.8.0
 	golang.zx2c4.com/wireguard v0.0.0-20231211153847-12269c276173
 	gopkg.in/yaml.v3 v3.0.1
-	gvisor.dev/gvisor v0.0.0-20241108012608-5901531b85ba
+	gvisor.dev/gvisor v0.0.0-20241217203854-afdd74ad6402 
 )
 
 require (
